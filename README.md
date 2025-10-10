@@ -1,9 +1,9 @@
-# Jonathan G.
+# Jonathan Gorbachev
 ![](https://github.com/jonathangorbachev/Jonathan-Gorbachev/blob/main/gif.gif)
 
- - incoming Software Engineer Intern at [Coinbase](https://www.coinbase.com/en-ca/institutional)
- - Bachelors in Honors Computer Science at [Carleton University](https://carleton.ca/)
- - Interested in ML and data science
+ - previously interned at [Coinbase](https://www.coinbase.com/en-ca/institutional) and [Capital One](https://wwww.capitalone.com)
+ - Bachelors in Honors Computer Science and minoring in Math at [Carleton University](https://carleton.ca/)
+ - Interested in ML and crypto
  - Brooklyn born and raised
 
 ## What I love to do
